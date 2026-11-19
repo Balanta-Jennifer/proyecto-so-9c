@@ -12,3 +12,14 @@
 
 # Organización 
 - Organización inicial del trabajo y distribución general de las etapas y entregas del proyecto conforme avance el curso. 
+
+# Integrante y roles
+- Integrante: Jenifer Balanta 
+- Roles: Asomo todos los roles
+
+   # Fechas de cierre de los sprints
+  - Sprint 0 (Arranque): jueves 19 de noviembre, Cierre del sprint 0 ( 11:55 p m.) 
+  - Sprint 1 (Montaje): Jueves 26 de noviembre
+  - Sprint 2 (Servicios): jueves 10 de diciembre
+  - Sprint 3 ( Cierre): jueves 17 de diciembre
+  - Sustentación: Viernes 18 de diciembre
