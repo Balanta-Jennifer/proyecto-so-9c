@@ -7,6 +7,6 @@
 |  Balanta               | Maquinas Virtuales y Red   | Instalar las dos VMs                 | 
 
 
-# En este archivo 
+# En el archivo 
 En este archivo registra la organización del sprint-0 para empezar con el proyecto final de Sistemas Operativos, 
 establece como de divide el trabajo y los roles que se asume como integrante y la tarea que corresponden a cada rol durante este primer Split. 
