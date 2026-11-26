@@ -3,10 +3,10 @@
 
 | Integrante      |           Rol            | Que se hace en cada Rol              | 
 | :--- | :--- | :---|
-| Jennifer Balanta | coordinación y Repositorio | Crear el cuerpo y entregar el enlace |  
-|  Balanta               | Maquinas Virtuales y Red   | Instalar las dos VMs                 | 
+| Jennifer Balanta | coordinación y Repositorio | integrar lo que se define y entregar el enlace |  
+|                  |  Maquinas Virtuales y Red   | Organizar, definir y documentar herramientas  |              
 
 
 # En el archivo 
-En este archivo registra la organización del sprint-0 para empezar con el proyecto final de Sistemas Operativos, 
-establece como de divide el trabajo y los roles que se asume como integrante y la tarea que corresponden a cada rol durante este primer Split. 
+En este archivo registra el orden del sprint-0 para empezar con el proyecto final de Sistemas Operativos, 
+establece como se divide el trabajo y los roles que se asume como integrante y la tarea que corresponden a cada rol durante este primer Split. (Integrar, organizar, documentar, entregar) 
