@@ -1,5 +1,5 @@
 
-# Ficha de Versión . Manjaro ( MV grafica )
+# Ficha de Versión 
 
 |   Versión   |  Fecha de lanzamiento |     Enlace      |
 |---|---|---| 
