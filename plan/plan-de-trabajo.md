@@ -1,7 +1,7 @@
 
 # Plan de trabajo. grupo 9c 
 
-| Integrante      |           Rol                | Que se hace en cada Rol              | 
+| Integrante      |           Rol            | Que se hace en cada Rol              | 
 | :--- | :--- | :---|
 | Jennifer Balanta | coordinación y Repositorio | Crear el cuerpo y entregar el enlace |  
 |  Balanta               | Maquinas Virtuales y Red   | Instalar las dos VMs                 | 
