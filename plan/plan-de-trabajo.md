@@ -10,7 +10,7 @@
 ## Fecha de Sprint 
 
 | Etapa | Fecha |  Entrega |
-|---|
+|---|---|---|
 | Sprint 0 | Entrega, antes del 19 de Noviembre | https://github.com/Balanta-Jennifer/proyecto-so-9c | 
 
 ## En el archivo 
