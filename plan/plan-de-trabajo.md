@@ -3,8 +3,8 @@
 
 | Integrante      |     Rol                    | Que se hace en cada Rol              | 
 | :--- | :--- | :---|
-| Jennifer Balnta | coordinación y Repositorio | Crear el cuerpo y entregar el enlace |  
-|                 | Maquinas Virtuales y Red   | Instalar las dos VMs                 | 
+| Jennifer Balanta | coordinación y Repositorio | Crear el cuerpo y entregar el enlace |  
+|  Balanta               | Maquinas Virtuales y Red   | Instalar las dos VMs                 | 
 
 
 - Este plan presenta el  trabajo inicial para el proyecto del curso.
