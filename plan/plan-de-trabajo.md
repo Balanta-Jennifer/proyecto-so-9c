@@ -7,7 +7,7 @@
 |                  |  Maquinas Virtuales y Red   | Organizar, definir y documentar herramientas  |              
 
 
-## Fechas de sprints 
+## Fecha de Sprint 
 
 | Etapa | Fecha |  Entrega |
 |---|
