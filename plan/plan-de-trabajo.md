@@ -1,8 +1,15 @@
-# Plan de trabajo 
+
+# Plan de trabajo. grupo 9c 
+
+| Integrante      |     Rol                    | Que se hace en cada Rol              | 
+| Jennifer Balnta | coordinación y Repositorio | Crear el cuerpo y entregar el enlace |  
+|                 | Maquinas Virtuales y Red   | Instalar las dos VMs                 | 
+
+
 - Este plan presenta el  trabajo inicial para el proyecto del curso.
 
 # Identificación 
-- Proyecto: proyecto final s.o
+- Proyecto: proyecto final s. o
 - Curso: Sistemas operativos.
 - Grupo: Grupo 9, subgrupo 9c.
 - Repositorio: Proyecto-so-9c.
